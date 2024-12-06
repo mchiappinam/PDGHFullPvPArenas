@@ -1,0 +1,21 @@
+name: PDGHFullPvPArenas
+main: me.mchiappinam.pdghfullpvparenas.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.net/
+commands:
+   jogar:
+      description: Info.
+      usage: /<command>
+   fps:
+      description: Info.
+      usage: /<command>
+   red:
+      description: Info.
+      usage: /<command>
+   dayz:
+      description: Info.
+      usage: /<command>
+   comprarkit:
+      description: Info.
+      usage: /<command>
